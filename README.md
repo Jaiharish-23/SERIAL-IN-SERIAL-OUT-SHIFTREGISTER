@@ -43,7 +43,8 @@ Developed by: JAI HARISH R
 RegisterNumber:24006817
 
 */
-```module SISO(clk, sin, q);
+```
+module SISO(clk, sin, q);
 input clk;
 input sin;
 output [3:0] q;
